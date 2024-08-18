@@ -1,0 +1,27 @@
+#Owner:
+#  tabprefix: "&0&l[&a&lOwner&0&l] &a"
+#  tagprefix: "&2&lOwner &a"
+default:
+  tabprefix: "%voicechat_disabled%%voicechat_installed%%voicechat_not_installed% %luckperms_prefix%"
+
+dev:
+  tabprefix: "%voicechat_disabled%%voicechat_installed%%voicechat_not_installed% %luckperms_prefix%"
+
+moderator:
+  tabprefix: "%voicechat_disabled%%voicechat_installed%%voicechat_not_installed% %luckperms_prefix%"
+
+owner:
+  tabprefix: "%voicechat_disabled%%voicechat_installed%%voicechat_not_installed% %luckperms_prefix%"
+
+junior-moderator:
+  tabprefix: "%voicechat_disabled%%voicechat_installed%%voicechat_not_installed% %luckperms_prefix%"
+
+ # default settings for all groups, all groups will take properties from this section unless player's primary group overrides a specific setting _DEFAULT_
+_DEFAULT_:
+  tabprefix: "%luckperms-prefix%"
+  tagprefix: "%luckperms-prefix%"
+  customtabname: "%player%"
+  customtagname: "%player%" # don't forget to enable unlimited nametag mode to make this one work
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"
+
