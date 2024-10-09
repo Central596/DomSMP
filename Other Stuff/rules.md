@@ -94,10 +94,9 @@ Bedrock Port: `8124`
 [Alternate Dynmap Link](http://66.59.211.51:8123)
 [Our Wiki](https://dommc.miraheze.org/wiki/Main_Page)
 
-## FAQ
 # Factions
 - "*I want to grief [name here]!!! I don't like that guys faction!*"
-  ╰ Please check out <#1215836846542819418> 
+  ╰ Please check out the war rules section. (Discord only)
 
 - How do I make a faction/claim land?
   ├ Make sure you have a job in /jobs browse
