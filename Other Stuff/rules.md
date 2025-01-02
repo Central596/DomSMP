@@ -85,6 +85,7 @@ Please make this server a **SAFE PLACE** for **ALL PLAYERS AND STREAMERS**
 ⠀
 *These rules are subject to change as time goes by.*
 *Moderator actions may not be exact from what it says in the rules.*
+*Join the Discord for acurate rules*
 ⠀
 Alternate IP: 
 Java: `domsmp.minecraft.best`
